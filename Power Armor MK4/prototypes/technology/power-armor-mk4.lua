@@ -15,7 +15,7 @@ data:extend{
     unit =
     {
       count = 1000,
-      ingredients = {{"science-pack-1", 1}, {"science-pack-2", 1}, {"science-pack-3", 2}, {"alien-science-pack", 4}},
+      ingredients = {{"science-pack-1", 1}, {"science-pack-2", 1}, {"science-pack-3", 2}},
       time = 60
     },
     order = "g-c-c"
