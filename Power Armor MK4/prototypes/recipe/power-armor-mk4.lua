@@ -10,7 +10,6 @@ data:extend{
 	  {"electric-furnace", 50},
 	  {"processing-unit", 200},
 	  {"tank", 5},
-	  {"alien-artifact", 2000},
 	},
     result = "power-armor-mk4",
     requester_paste_multiplier = 1
