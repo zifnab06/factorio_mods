@@ -1,10 +1,10 @@
 {
 	"name":"Power Armor MK4",
 	"author":"zifnab06",
-	"version":"0.0.5",
+	"version":"0.0.6",
 	"title":"Power Armor MK4",
 	"description":"Even Bigger, even better power armor; with a gigantic grid (40x40) and huge inventory bonus (+200).",
 	"homepage":"nope",
-	"factorio_version":"0.15",
-	"dependencies": ["base >= 0.15.0", "Power Armor MK3 >= 0.1.2"]
+	"factorio_version":"0.16",
+	"dependencies": ["base >= 0.16.0", "Power Armor MK3 >= 0.1.3"]
 }

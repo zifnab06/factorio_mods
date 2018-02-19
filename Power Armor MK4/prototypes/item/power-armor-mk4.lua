@@ -3,6 +3,7 @@ data:extend{
     type = "armor",
     name = "power-armor-mk4",
     icon = "__Power Armor MK4__/graphics/icons/power-armor-mk4.png",
+    icon_size = 32,
     flags = {"goes-to-main-inventory"},
     resistances =
     {
