@@ -1,2 +1,1 @@
-require("prototypes.item.magic-stick")
-require("prototypes.recipe.magic-stick")
+require("prototypes.technology.magic-stick")
