@@ -11,16 +11,16 @@ data:extend{
         recipe = "power-armor-mk4"
       }
     },
-    prerequisites = {"power-armor-mk3"},
+    prerequisites = {"power-armor-mk3", "space-science-pack"},
     unit =
     {
       count = 1000,
       ingredients = {
-        {"science-pack-1", 1},
-        {"science-pack-2", 1},
-        {"science-pack-3", 1},
+        {"automation-science-pack", 1},
+        {"logistic-science-pack", 1},
+        {"chemical-science-pack", 1},
         {"military-science-pack", 2},
-        {"high-tech-science-pack", 3},
+        {"utility-science-pack", 3},
         {"space-science-pack", 5}
       },
       time = 120
