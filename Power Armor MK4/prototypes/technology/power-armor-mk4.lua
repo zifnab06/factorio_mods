@@ -11,7 +11,7 @@ data:extend{
         recipe = "power-armor-mk4"
       }
     },
-    prerequisites = {"power-armor-mk3", "space-science-pack"},
+    prerequisites = {"pamk3-pamk3", "space-science-pack"},
     unit =
     {
       count = 1000,
